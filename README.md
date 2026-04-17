@@ -10,7 +10,7 @@
 
 <p>
 Sempre fui movido pela curiosidade e pelo interesse em entender como a tecnologia funciona.
-Hoje estou realizando um sonho de criança ao cursar Tecnologia da Informação e construir
+Hoje estou realizando um sonho de criança ao cursar Análise e Desenvolvimento de Sistemas e construir
 minha trajetória na área.
 
 Tenho facilidade em aprender novas tecnologias, estou em constante evolução
