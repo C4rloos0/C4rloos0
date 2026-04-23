@@ -23,7 +23,7 @@ e busco sempre crescer tanto profissionalmente quanto pessoalmente.
 
 
 <h2>Linguagens & Tecnologias</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -35,7 +35,7 @@ e busco sempre crescer tanto profissionalmente quanto pessoalmente.
 </div>
 
 <h2>Estudando Atualmente</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
